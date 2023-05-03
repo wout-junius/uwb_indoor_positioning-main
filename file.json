@@ -1,0 +1,33 @@
+{
+    "player_one" : 
+    {
+        "take_flashlight" : false,
+        "use_flashlight" : true,
+        "take_right_suit" : false,
+        "take_right_filter" : true,
+        "take_camera" : false,
+        "take_sampling_kit" : true,
+        "take_chem_detector" : false,
+        "take_gun" : true,
+        "irradiation" : 123
+    },
+    "player_two" :
+    {
+        "take_flashlight" : true,
+        "use_flashlight" : false,
+        "take_right_suit" : true,
+        "take_right_filter" : false,
+        "take_camera" : true,
+        "take_sampling_kit" : false,
+        "take_chem_detector" : true,
+        "take_gun" : false,
+        "irradiation" : 456
+    },
+    "team" : 
+    {
+        "take_samples" : 5,
+        "take_pictures" : 6,
+        "use_lift" : true,
+        "inspect_body" : true
+    }
+}
